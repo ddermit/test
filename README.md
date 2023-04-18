@@ -63,5 +63,5 @@ Respon a les preguntes de manera adient i utilitza el vocabulari tècnic necessa
 Per fer el link
 [Click to google](https://www.google.com)
 
-Inline-style: 
+Una imatge d'exemple --> 
 ![Una imatge d'exemple](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
