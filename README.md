@@ -60,4 +60,8 @@ Respon a les preguntes de manera adient i utilitza el vocabulari tècnic necessa
 2. dificultat
 3. dificultat
 
+Per fer el link
 [Click to google](https://www.google.com)
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
