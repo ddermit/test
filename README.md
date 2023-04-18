@@ -60,4 +60,4 @@ Respon a les preguntes de manera adient i utilitza el vocabulari tècnic necessa
 2. dificultat
 3. dificultat
 
-[I'm an inline-style link](https://www.google.com)
+[Click to google](https://www.google.com)
