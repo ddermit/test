@@ -1,0 +1,1 @@
+var json_ftg_punt_1 = {"type":"FeatureCollection","name":"ftg_punt_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Id":"classe","label":"pis1"},"geometry":{"type":"Point","coordinates":[1.147534557323795,41.102582231259994]}}]}
